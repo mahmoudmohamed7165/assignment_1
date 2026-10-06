@@ -1,8 +1,8 @@
-# My First Assignment
+# My First Assignment 
+ 
+ A three web pages built with HTML 
 
-A three web pages built with HTML
-
-## Pages
+ ## Pages
 
 - index.html: home page
 - about.html: skills list and courses table
